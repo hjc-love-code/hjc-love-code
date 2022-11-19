@@ -1,4 +1,4 @@
-### <div align="center">I'm Jonathan, a primer school programmer, I want to be a famous IT engineer in the world😉</div>  
+### I'm Jonathan, a primer school programmer, I want to be a famous IT engineer in the world😉  
   
 
 - 🔭 I’m now working on CSP-J and Pragmatic Tools https://github.com/hjc-love-code/XYD-lesson https://github.com/hjc-love-code/PragmaticTools  
