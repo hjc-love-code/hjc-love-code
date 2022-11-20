@@ -1,10 +1,10 @@
 ### <div align="center">I'm Jonathan, a primer school programmer, I want to be a famous IT engineer in the world😉</div>
   
 
-- <div align="center">🔭 I’m now working on CSP-J and Pragmatic Tools
-https://github.com/hjc-love-code/XYD-lesson   
-https://github.com/hjc-love-code/PragmaticTools  
-</div>
+- <div align="center">🔭 I’m now working on CSP-J and Pragmatic Tools</div>
+<div align="center">https://github.com/hjc-love-code/XYD-lesson</div>
+<div align="center">https://github.com/hjc-love-code/PragmaticTools</div> 
+
   
 
 - 🌱 I’m currently learning C++ and Python  
